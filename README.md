@@ -1,6 +1,5 @@
 # TS-PMCD
 Causal Structure-Based Forecasting for Multivariate Industrial Time Series under Covariate Drift
-Causal Structure-Based Forecasting for Multivariate Industrial Time Series under Covariate Drift
 This repository contains the core implementation of TS-PMCD, a framework for forecasting multivariate time series under covariate drift while preserving causal structures.
 
 📁Code Structure
